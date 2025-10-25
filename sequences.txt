@@ -1,0 +1,15 @@
+# ctemps
+0
+20
+37
+100
+-40
+
+# fruits
+Pomegranate
+cherry 
+apricot
+ date
+ Apple
+lemon 
+ Kiwi

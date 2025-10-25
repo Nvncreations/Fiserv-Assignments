@@ -1,0 +1,6 @@
+apple is red
+banana is yellow
+ant is small
+bat is flying
+alligator lives in water
+ball is round
